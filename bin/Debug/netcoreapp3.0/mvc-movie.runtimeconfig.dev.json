@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pélago Tecnologia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pélago Tecnologia\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
