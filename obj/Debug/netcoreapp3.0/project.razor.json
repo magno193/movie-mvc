@@ -14359,6 +14359,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

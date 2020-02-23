@@ -20,6 +20,13 @@ c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\D
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.TagHelpers.input.cache
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.TagHelpers.output.cache
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.RazorCoreGenerate.cache
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.RazorTargetAssemblyInfo.cache
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.RazorTargetAssemblyInfo.cs
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.Views.pdb
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.dll
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.pdb
+C:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.csproj.CopyComplete
+c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
@@ -27,9 +34,3 @@ c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\D
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
 c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
-c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.RazorTargetAssemblyInfo.cache
-c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.RazorTargetAssemblyInfo.cs
-c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.Views.pdb
-c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.dll
-c:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.pdb
-C:\Users\Pélago Tecnologia\Desktop\repos\asp.net core\movie-mvc\mvc-movie\obj\Debug\netcoreapp3.0\mvc-movie.csproj.CopyComplete
