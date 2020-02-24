@@ -14374,6 +14374,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\HelloWorld\\Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
