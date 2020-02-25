@@ -7,6 +7,12 @@ Projeto da documentação de mvc de asp.net core.
 - Extensão C#
 - AspNetCore.Mvc
 
+## Pacotes
+
+- Entity Framework Core: ```dotnet add package Microsoft.EntityFrameworkCore```
+- SQLite: ```dotnet add package Microsoft.EntityFrameworkCore.SQLite```
+- Scaffolding: ```dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design```
+
 ## Template inicial
 
 - Criado projeto com ```dotnet new -o movie-mvc```
