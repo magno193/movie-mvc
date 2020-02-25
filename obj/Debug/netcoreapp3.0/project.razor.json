@@ -14354,6 +14354,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Filmes\\Index.cshtml",
+      "TargetPath": "Views\\Filmes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Filmes\\Delete.cshtml",
+      "TargetPath": "Views\\Filmes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14361,6 +14371,16 @@
     {
       "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Filmes\\Details.cshtml",
+      "TargetPath": "Views\\Filmes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Filmes\\Edit.cshtml",
+      "TargetPath": "Views\\Filmes\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14386,6 +14406,11 @@
     {
       "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pélago Tecnologia\\Desktop\\repos\\asp.net core\\movie-mvc\\mvc-movie\\Views\\Filmes\\Create.cshtml",
+      "TargetPath": "Views\\Filmes\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],

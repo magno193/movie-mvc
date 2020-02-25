@@ -6,12 +6,15 @@ Projeto da documentação de mvc de asp.net core.
 - Visual Studio Code
 - Extensão C#
 - AspNetCore.Mvc
+- ```dotnet aspnet-codegenerator```  para scaffold
 
 ## Pacotes
 
 - Entity Framework Core: ```dotnet add package Microsoft.EntityFrameworkCore```
 - SQLite: ```dotnet add package Microsoft.EntityFrameworkCore.SQLite```
 - Scaffolding: ```dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design```
+- Scaffolding: ```dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Mvc```
+- Scaffolding: ```dotnet tool install --global dotnet-aspnet-codegenerator```
 
 ## Template inicial
 
@@ -32,3 +35,8 @@ Projeto da documentação de mvc de asp.net core.
 
 ```https://localhost:{PORT}/HelloWorld/Welcome?name=Rick&ID=4```
 ```https://localhost:{PORT}/HelloWorld/Welcome/3?name=Rick```
+
+### Exemplo de scaffold de model
+
+- Instalando ferramenta de scaffolding: ```dotnet tool install --global dotnet-aspnet-codegenerator```
+- Executando comando: ```dotnet aspnet-codegenerator controller -name FilmesController -m Filme -dc FilmeContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries```
